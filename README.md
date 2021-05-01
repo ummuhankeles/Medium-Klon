@@ -1,3 +1,3 @@
-# Medium-Klon
+# Medium Clone
 
-Html&Css ve Bootstrap kullanarak medium.com sitesinin anasayfası klonlandı.
+[Medium](https://medium.com/) website was cloned with Html&Css and Bootstrap.
